@@ -39,3 +39,4 @@ kotlin {
 flutter {
     source = "../.."
 }
+android.newDsl=false
