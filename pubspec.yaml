@@ -9,9 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image: ^4.1.0
-  encrypt: ^5.0.3
-  flutter_contacts: ^1.1.7
+  flutter_contacts: ^1.1.9+2
+  receive_sharing_intent: ^1.4.5
   image_picker: ^1.0.7
   path_provider: ^2.1.2
 
